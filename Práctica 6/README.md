@@ -4,5 +4,5 @@ Es necerario el uso de todo lo que se encuentra en la carpeta para el funcionami
 
 El funcionamiento es el siguiente:
 La cámara empieza a capturar y mostrar la cara detectada.
-Para fijar la cara detectada como cara a comparar se debe pulsar f
+Para fijar la cara detectada como cara a comparar se debe pulsar f.
 Observar el porcentaje de parecido detectado con respecto a la cara que está detectando la cámara.
